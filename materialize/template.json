@@ -1,0 +1,12 @@
+{
+  "system": "Materialize",
+  "proprietary": "no",
+  "hardware": "cpu",
+  "tuned": "no",
+  "tags": [
+    "Rust",
+    "streaming",
+    "PostgreSQL compatible",
+    "hot-run"
+  ]
+}
